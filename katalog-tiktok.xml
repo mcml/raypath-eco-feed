@@ -3,7 +3,7 @@
   <channel>
     <title>Raypath Eco — katalog TikTok</title>
     <link>https://raypath.eco</link>
-    <description>Katalog produktów raypath.eco (Syncronai 2026-11-08T15:27:43.094Z)</description>
+    <description>Katalog produktów raypath.eco (Syncronai 2026-11-08T15:30:39.238Z)</description>
     <item>
       <g:sku_id>75970</g:sku_id>
       <g:id>75970</g:id>
@@ -1140,63 +1140,6 @@
       <g:item_group_id>76040</g:item_group_id>
       <g:gtin>5908010170339</g:gtin>
       <g:product_type>PŁYNY</g:product_type>
-    </item>
-    <item>
-      <g:sku_id>76041</g:sku_id>
-      <g:id>76041</g:id>
-      <g:title>WITAMINA C - VITAMIN C - 60kaps SUPLEMENT DIETY RAYPATH</g:title>
-      <g:description>Witamina C z ekstraktem z kurkumy i imbiru. Uzupełnia zapotrzebowanie organizmu na kwas askorbinowy niezbędny do właściwowego funkcjonowania. Stanowi ona podstawową witaminę, która wraz z pożywieniem powinna być dostarczana do organizmu na co dzień.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>149.00 PLN</g:price>
-      <g:link>https://raypath.eco/pl/products/witamina-c-vitamin-c-60kaps-suplement-diety-raypath-76041.html</g:link>
-      <g:image_link>https://raypath.eco/hpeciai/2f11405315f4d359620c37cf46fb8564/pol_pl_WITAMINA-C-VITAMIN-C-60kaps-SUPLEMENT-DIETY-RAYPATH-76041_13.jpg</g:image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/8de60ec68e90ee599f1ff72a29f0efbd/pol_pl_WITAMINA-C-VITAMIN-C-60kaps-SUPLEMENT-DIETY-RAYPATH-76041_10.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/f9468528104bc7a469a0507eb460fc1b/pol_pl_WITAMINA-C-VITAMIN-C-60kaps-SUPLEMENT-DIETY-RAYPATH-76041_11.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/0d6665fd409f9727bb697be7756822ab/pol_pl_WITAMINA-C-VITAMIN-C-60kaps-SUPLEMENT-DIETY-RAYPATH-76041_12.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/87f67f5dfde98610bc5020ffeefbaeac/pol_pl_WITAMINA-C-VITAMIN-C-60kaps-SUPLEMENT-DIETY-RAYPATH-76041_9.jpg</g:additional_image_link>
-      <g:brand>Raypath</g:brand>
-      <g:custom_label_1>SYNC_GOLD</g:custom_label_1>
-      <g:item_group_id>76041</g:item_group_id>
-      <g:gtin>5908010170360</g:gtin>
-      <g:product_type>SUPLEMENTY</g:product_type>
-    </item>
-    <item>
-      <g:sku_id>76042</g:sku_id>
-      <g:id>76042</g:id>
-      <g:title>COLOSTRUM CAVALLI - 60kaps SUPLEMENT DIETY RAYPATH</g:title>
-      <g:description>Colostrum jest pierwszym mlekiem, które zapewnia ochronę i odporność noworodkom w początkowych etapach życia. Colostrum Cavalli wzmacnia odporność, uzupełnia mikroflorę jelitową, zwiększa siły witalne oraz normalizuje układ immunologiczny.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>149.00 PLN</g:price>
-      <g:link>https://raypath.eco/pl/products/colostrum-cavalli-60kaps-suplement-diety-raypath-76042.html</g:link>
-      <g:image_link>https://raypath.eco/hpeciai/6dcb79f6adb1bafe8a51f96d479d9376/pol_pl_COLOSTRUM-CAVALLI-60kaps-SUPLEMENT-DIETY-RAYPATH-76042_12.jpg</g:image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/c8af8265fd0bb35aee28893d2d30e563/pol_pl_COLOSTRUM-CAVALLI-60kaps-SUPLEMENT-DIETY-RAYPATH-76042_10.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/0bdce0fe6e6c0634e8d0e2aa573f15d9/pol_pl_COLOSTRUM-CAVALLI-60kaps-SUPLEMENT-DIETY-RAYPATH-76042_11.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/e3ff77a3caa3f71112ae1c3cefa9f0f9/pol_pl_COLOSTRUM-CAVALLI-60kaps-SUPLEMENT-DIETY-RAYPATH-76042_9.jpg</g:additional_image_link>
-      <g:brand>Raypath</g:brand>
-      <g:custom_label_1>SYNC_GOLD</g:custom_label_1>
-      <g:item_group_id>76042</g:item_group_id>
-      <g:gtin>5908010170377</g:gtin>
-      <g:product_type>SUPLEMENTY</g:product_type>
-    </item>
-    <item>
-      <g:sku_id>76043</g:sku_id>
-      <g:id>76043</g:id>
-      <g:title>FOCUS BRAIN &amp; MEMORY FUEL - 60kaps SUPLEMENT DIETY RAYPATH</g:title>
-      <g:description>Focus Brain &amp; Memory Fuel z ekstraktem z miłorzębu oraz bakopy drobnolistnej. Zawiera również ashwagandha'e i różeniec górski. Suplement diety, który dzięki zawartości składników aktywnych efektywnie poprawia pamięć, koncentrację oraz dodaje sił witalnych</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>149.00 PLN</g:price>
-      <g:link>https://raypath.eco/pl/products/focus-brain-memory-fuel-60kaps-suplement-diety-raypath-76043.html</g:link>
-      <g:image_link>https://raypath.eco/hpeciai/dbf6eebb966fff5b04cbd2beefbb395e/pol_pl_FOCUS-BRAIN-MEMORY-FUEL-60kaps-SUPLEMENT-DIETY-RAYPATH-76043_3.jpg</g:image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/b276be4b61903971f11018c69d5f5907/pol_pl_FOCUS-BRAIN-MEMORY-FUEL-60kaps-SUPLEMENT-DIETY-RAYPATH-76043_1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/45c57607c7e1dafa8a951b65a11f629e/pol_pl_FOCUS-BRAIN-MEMORY-FUEL-60kaps-SUPLEMENT-DIETY-RAYPATH-76043_2.jpg</g:additional_image_link>
-      <g:brand>Raypath</g:brand>
-      <g:custom_label_1>SYNC_GOLD</g:custom_label_1>
-      <g:item_group_id>76043</g:item_group_id>
-      <g:gtin>5908010170384</g:gtin>
-      <g:product_type>SUPLEMENTY</g:product_type>
     </item>
     <item>
       <g:sku_id>76045</g:sku_id>
@@ -2559,29 +2502,6 @@
       <g:product_type>Kosmetyczne</g:product_type>
     </item>
     <item>
-      <g:sku_id>76124</g:sku_id>
-      <g:id>76124</g:id>
-      <g:title>ALL IN ONE - 60kaps SUPLEMENT DIETY RAYPATH</g:title>
-      <g:description>Odkryj moc All-In-One – kompleksowego wsparcia dla organizmu! Unikalna formuła łączy kluczowe witaminy i składniki odżywcze, dodając energii i wzmacniając zdrowie. Włącz go do codziennej rutyny i poczuj różnicę !</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>216.00 PLN</g:price>
-      <g:link>https://raypath.eco/pl/products/all-in-one-60kaps-suplement-diety-raypath-76124.html</g:link>
-      <g:image_link>https://raypath.eco/hpeciai/cf668759c9dcacffd8719b7969b93de4/pol_pl_ALL-IN-ONE-60kaps-SUPLEMENT-DIETY-RAYPATH-76124_9.jpg</g:image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/8bedbd89894382f4bda03bbe8190dcf2/pol_pl_ALL-IN-ONE-60kaps-SUPLEMENT-DIETY-RAYPATH-76124_5.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/42ad757670c368444ecf952568eb1f89/pol_pl_ALL-IN-ONE-60kaps-SUPLEMENT-DIETY-RAYPATH-76124_8.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/1de0e323b36bf079988de7ac7ad1de61/pol_pl_ALL-IN-ONE-60kaps-SUPLEMENT-DIETY-RAYPATH-76124_6.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/aff1e44b4a7d33f90e7876548cddbd66/pol_pl_ALL-IN-ONE-60kaps-SUPLEMENT-DIETY-RAYPATH-76124_1.png</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/137d3f1f8f9eb8ec9e696584aecc1876/pol_pl_ALL-IN-ONE-60kaps-SUPLEMENT-DIETY-RAYPATH-76124_2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/cea7a1c57a10b446dba46623cae264bb/pol_pl_ALL-IN-ONE-60kaps-SUPLEMENT-DIETY-RAYPATH-76124_7.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/90b92b884710e4644ce9aa1a47eb7f1b/pol_pl_ALL-IN-ONE-60kaps-SUPLEMENT-DIETY-RAYPATH-76124_4.jpg</g:additional_image_link>
-      <g:brand>Raypath</g:brand>
-      <g:custom_label_1>SYNC_GOLD</g:custom_label_1>
-      <g:item_group_id>76124</g:item_group_id>
-      <g:gtin>5908010170414</g:gtin>
-      <g:product_type>SUPLEMENTY</g:product_type>
-    </item>
-    <item>
       <g:sku_id>76125</g:sku_id>
       <g:id>76125</g:id>
       <g:title>ZESTAW NA START - KUCHNIA - RAYPATH</g:title>
@@ -2930,24 +2850,6 @@
       <g:product_type>Mini zestawy</g:product_type>
     </item>
     <item>
-      <g:sku_id>76176</g:sku_id>
-      <g:id>76176</g:id>
-      <g:title>BALANCE SMART - 60kaps SUPLEMENT DIETY RAYPATH</g:title>
-      <g:description>Balance SMART to naturalna kompozycja ekstraktów z mniszka lekarskiego, ostropestu plamistego, pokrzywy zwyczajnej, kopru włoskiego oraz brodziuszki wiechowatej skutecznie wspiera oczyszczanie organizmu z toksyn, usuwanie nadmiaru wody oraz pracę wątroby.</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>149.00 PLN</g:price>
-      <g:link>https://raypath.eco/pl/products/balance-smart-60kaps-suplement-diety-raypath-76176.html</g:link>
-      <g:image_link>https://raypath.eco/hpeciai/8929ef6973e1d901fc82212ed9ea175c/pol_pl_BALANCE-SMART-60kaps-SUPLEMENT-DIETY-RAYPATH-76176_6.jpg</g:image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/9acad537c9736da08d7dff885884329f/pol_pl_BALANCE-SMART-60kaps-SUPLEMENT-DIETY-RAYPATH-76176_7.png</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/aa676e05ee81b1cae8992051fad46768/pol_pl_BALANCE-SMART-60kaps-SUPLEMENT-DIETY-RAYPATH-76176_8.jpg</g:additional_image_link>
-      <g:brand>Raypath</g:brand>
-      <g:custom_label_1>SYNC_GOLD</g:custom_label_1>
-      <g:item_group_id>76176</g:item_group_id>
-      <g:gtin>5908010170407</g:gtin>
-      <g:product_type>SUPLEMENTY</g:product_type>
-    </item>
-    <item>
       <g:sku_id>76178</g:sku_id>
       <g:id>76178</g:id>
       <g:title>ZESTAW UNIWERSALNY RĘKAWICA BIAŁA, BIAŁA NOVA, SUNBEAM, MYDEŁKO- RAYPATH</g:title>
@@ -3038,51 +2940,6 @@
       <g:item_group_id>76182</g:item_group_id>
       <g:gtin>5908010171466</g:gtin>
       <g:product_type>KOSMETYKI</g:product_type>
-    </item>
-    <item>
-      <g:sku_id>76184</g:sku_id>
-      <g:id>76184</g:id>
-      <g:title>VITA SHAKE ANANAS - 600g SUPLEMENT DIETY RAYPATH</g:title>
-      <g:description>Vita Shake ananasowy (600g) to pyszny, roślinny suplement w proszku zastępujący posiłek. Dostarcza pełnowartościowe białko, błonnik, witaminy i minerały. Idealny dla aktywnych, wspiera zdrową dietę. Szybki w przygotowaniu. Shaker GRATIS!</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>299.00 PLN</g:price>
-      <g:link>https://raypath.eco/pl/products/vita-shake-ananas-600g-suplement-diety-raypath-76184.html</g:link>
-      <g:image_link>https://raypath.eco/hpeciai/c0f2c9cf85f8fc0cbb8f5a71fc70fd2c/pol_pl_VITA-SHAKE-ANANAS-600g-SUPLEMENT-DIETY-RAYPATH-76184_1.png</g:image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/3d76bb62f6c014e2de16254e53aeb024/pol_pl_VITA-SHAKE-ANANAS-600g-SUPLEMENT-DIETY-RAYPATH-76184_6.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/b6764cf5622b6f42d527d3b16fab2dcd/pol_pl_VITA-SHAKE-ANANAS-600g-SUPLEMENT-DIETY-RAYPATH-76184_2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/3a4cd18b37a62204480fcdd67c671ee2/pol_pl_VITA-SHAKE-ANANAS-600g-SUPLEMENT-DIETY-RAYPATH-76184_7.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/be1385aba92b04c106dafe6bb83a4c36/pol_pl_VITA-SHAKE-ANANAS-600g-SUPLEMENT-DIETY-RAYPATH-76184_4.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/16d984ba5d050d5fee93b0c0f9ff0f14/pol_pl_VITA-SHAKE-ANANAS-600g-SUPLEMENT-DIETY-RAYPATH-76184_5.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/4822838aff52df020b588ff45b83b7c7/pol_pl_VITA-SHAKE-ANANAS-600g-SUPLEMENT-DIETY-RAYPATH-76184_8.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/68beb71bb9fde6d02d0024e693fff98f/pol_pl_VITA-SHAKE-ANANAS-600g-SUPLEMENT-DIETY-RAYPATH-76184_3.jpg</g:additional_image_link>
-      <g:brand>Raypath</g:brand>
-      <g:custom_label_1>SYNC_BRONZE</g:custom_label_1>
-      <g:item_group_id>76184</g:item_group_id>
-      <g:gtin>5908010171473</g:gtin>
-      <g:product_type>SUPLEMENTY</g:product_type>
-    </item>
-    <item>
-      <g:sku_id>76185</g:sku_id>
-      <g:id>76185</g:id>
-      <g:title>VITA SHAKE TRUSKAWKA I MALINA - 600g SUPLEMENT DIETY RAYPATH</g:title>
-      <g:description>Vita Shake truskawkowo-malinowy (600g) to roślinny suplement w proszku zastępujący posiłek. Bogaty w białko, błonnik, witaminy i minerały. Wspiera aktywny i zdrowy tryb życia. Szybki w przygotowaniu. Odbierz swój shaker GRATIS!</g:description>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>299.00 PLN</g:price>
-      <g:link>https://raypath.eco/pl/products/vita-shake-truskawka-i-malina-600g-suplement-diety-raypath-76185.html</g:link>
-      <g:image_link>https://raypath.eco/hpeciai/68c0d76fbfe952c09758ff0e59218c6b/pol_pl_VITA-SHAKE-TRUSKAWKA-I-MALINA-600g-SUPLEMENT-DIETY-RAYPATH-76185_1.png</g:image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/44161b6f9debf31b07da42aa1db5da6d/pol_pl_VITA-SHAKE-TRUSKAWKA-I-MALINA-600g-SUPLEMENT-DIETY-RAYPATH-76185_4.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/b6764cf5622b6f42d527d3b16fab2dcd/pol_pl_VITA-SHAKE-TRUSKAWKA-I-MALINA-600g-SUPLEMENT-DIETY-RAYPATH-76185_2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/e2216351e7161d1555e0cd2763481291/pol_pl_VITA-SHAKE-TRUSKAWKA-I-MALINA-600g-SUPLEMENT-DIETY-RAYPATH-76185_5.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/8bbe89b863134bc0e7730a447ac8024d/pol_pl_VITA-SHAKE-TRUSKAWKA-I-MALINA-600g-SUPLEMENT-DIETY-RAYPATH-76185_7.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/68beb71bb9fde6d02d0024e693fff98f/pol_pl_VITA-SHAKE-TRUSKAWKA-I-MALINA-600g-SUPLEMENT-DIETY-RAYPATH-76185_3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://raypath.eco/hpeciai/5cd39ff63529733e547778c1520d64aa/pol_pl_VITA-SHAKE-TRUSKAWKA-I-MALINA-600g-SUPLEMENT-DIETY-RAYPATH-76185_6.jpg</g:additional_image_link>
-      <g:brand>Raypath</g:brand>
-      <g:custom_label_1>SYNC_GOLD</g:custom_label_1>
-      <g:item_group_id>76185</g:item_group_id>
-      <g:gtin>5908010171480</g:gtin>
-      <g:product_type>SUPLEMENTY</g:product_type>
     </item>
     <item>
       <g:sku_id>76186</g:sku_id>
